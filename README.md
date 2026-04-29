@@ -14,7 +14,7 @@ Uma árvore binária é um tipo especial de árvore onde cada nó pode ter no m�
 * Não necessariamente tem ordem entre os valores
 
 ## O que é uma árvore binária de busca?
-Uma árvore binária de busca é uma árvore binária com uma regra de organização:  
+Uma árvore binária de busca é uma árvore binária com uma regra de organização:    
 **Para cada nó:**
 * Valores menores ficam à esquerda
 * Valores maiores ficam à direita
