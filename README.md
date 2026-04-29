@@ -8,7 +8,7 @@ Ela começa em um nó principal chamado raiz e se ramifica em outros nós chamad
 Uma árvore binária é um tipo especial de árvore onde cada nó pode ter no máximo dois filhos:  
 * Filho da esquerda
 * Filho da direita  
-** Características principais: **   
+**Características principais:**   
 * Estrutura limitada a dois filhos por nó
 * Pode ser usada para representar expressões, hierarquias simples, etc.
 * Não necessariamente tem ordem entre os valores
